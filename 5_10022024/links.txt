@@ -1,0 +1,6 @@
+- https://drive.google.com/file/d/1Rm7RIoXzd2uXwLmP_giI9QXhRdkscOr6/view
+
+- https://radimrehurek.com/gensim/auto_examples/index.html
+
+- https://colab.research.google.com/drive/1PSGDwu0AGk1dtjncRNXa929iNVLrLVbC?usp=sharing
+
