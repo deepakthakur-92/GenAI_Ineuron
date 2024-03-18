@@ -1,0 +1,7 @@
+waviate vector database - https://weaviate.io/
+
+LLM models - https://github.com/eugeneyan/open-llms
+
+chat with Llama - https://www.llama2.ai/
+
+llama2 - https://llama.meta.com/llama2/
