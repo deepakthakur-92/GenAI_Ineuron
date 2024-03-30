@@ -1,0 +1,1 @@
+Context aware splitting/chunking - https://medium.com/@glorat/context-aware-chunking-for-enhanced-retrieval-augmented-generation-oct23-9dcd435d9cf1
