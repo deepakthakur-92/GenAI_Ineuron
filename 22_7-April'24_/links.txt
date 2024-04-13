@@ -1,0 +1,15 @@
+- https://huggingface.co/facebook/rag-token-nq
+
+LangChain v/s Llama-Index(Sunny Youtube) - https://www.youtube.com/watch?v=EoauGRf_VCA&t=10s
+
+- https://python.langchain.com/docs/integrations/platforms/anthropic/
+
+- https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard
+
+- https://python.langchain.com/docs/use_cases/sql/
+
+- https://github.com/sunnysavita10/Information_Retrival_With_LlamaIdex_Google_Gemini
+
+Llamaindex - https://medium.com/@vaibhawkhemka6/lllamaindex-all-rag-frameworks-in-a-nutshell-with-colab-basic-to-advanced-44cef0204d52
+
+- https://js.langchain.com/docs/integrations/document_loaders/file_loaders/directory
