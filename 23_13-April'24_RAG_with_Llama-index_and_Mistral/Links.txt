@@ -1,3 +1,5 @@
+- LanceDB(open source) - The database for multilodel AI(It has in-memory and cloud storage) - https://lancedb.com/ 
+
 - https://colab.research.google.com/drive/1oxfVifKuVN7kpC8QMyChKGoHYNlObqIS?usp=sharing
 
 Weaviate - https://pypi.org/project/weaviate-client/
