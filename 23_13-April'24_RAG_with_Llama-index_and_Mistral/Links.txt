@@ -9,3 +9,5 @@ Weaviate - https://pypi.org/project/weaviate-client/
 - https://github.com/run-llama/llama_index
 
 - https://github.com/run-llama/llama_index/blob/main/llama-index-core/llama_index/core/langchain_helpers/memory_wrapper.py
+
+- google all models - https://ai.google.dev/gemini-api/docs
