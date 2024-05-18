@@ -5,3 +5,5 @@ Ollama github - https://ollama.com/download
 Docker window install - https://docs.docker.com/desktop/install/windows-install/
 
 ML Ops foundation by Ineuron - https://www.youtube.com/watch?v=jpU8F0M5axo&list=PLmQAMKHKeLZ9iaLWBULDE_hiPtOiHiDz0
+
+Indepth-GENAI by sunny github - https://github.com/sunnysavita10/Indepth-GENAI
