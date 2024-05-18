@@ -1,3 +1,6 @@
 Ollama - https://ollama.com/download
 
 Ollama github - https://ollama.com/download
+
+Docker window install - https://docs.docker.com/desktop/install/windows-install/
+
