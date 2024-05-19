@@ -3,3 +3,6 @@ Dataset - https://huggingface.co/datasets/MongoDB/embedded_movies
 Embedding Model (1024 Dimensions) - https://huggingface.co/thenlper/gte-large
 
 Weaviate Hybrid search - https://python.langchain.com/v0.1/docs/integrations/retrievers/weaviate-hybrid/
+
+https://towardsdatascience.com/improving-retrieval-performance-in-rag-pipelines-with-hybrid-search-c75203c2f2f5
+https://esteininger.medium.com/mongodb-and-pinecone-building-real-time-ai-applications-cd8e0482a3c7
