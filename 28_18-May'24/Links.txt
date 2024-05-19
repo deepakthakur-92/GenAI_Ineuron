@@ -10,3 +10,5 @@ Indepth-GENAI by sunny github - https://github.com/sunnysavita10/Indepth-GENAI
 
 Ollama WebUI - https://github.com/open-webui/open-webui
 
+Ollama code on 18th May - https://github.com/sunnysavita10/Ollama-Complete-Code
+
