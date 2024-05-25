@@ -1,3 +1,5 @@
 research paper(Era of 1-bit LLMS) - https://arxiv.org/pdf/2402.17764
 
 Download files from huggingface - https://huggingface.co/docs/huggingface_hub/en/guides/download
+
+model - https://huggingface.co/Qwen/Qwen1.5-1.8B
