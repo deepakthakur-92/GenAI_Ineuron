@@ -3,3 +3,5 @@ research paper(Era of 1-bit LLMS) - https://arxiv.org/pdf/2402.17764
 Download files from huggingface - https://huggingface.co/docs/huggingface_hub/en/guides/download
 
 model - https://huggingface.co/Qwen/Qwen1.5-1.8B
+
+Quantization colab link - https://colab.research.google.com/drive/1X4ersUhJ_iJQbZtnUhmFio8-nKitVB_6?usp=sharing
