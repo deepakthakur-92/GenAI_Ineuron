@@ -5,3 +5,5 @@ Download files from huggingface - https://huggingface.co/docs/huggingface_hub/en
 model - https://huggingface.co/Qwen/Qwen1.5-1.8B
 
 Quantization colab link - https://colab.research.google.com/drive/1X4ersUhJ_iJQbZtnUhmFio8-nKitVB_6?usp=sharing
+
+Improving Retrieval performance in RAG pipelines with Hybrid search(Medium) -- https://towardsdatascience.com/improving-retrieval-performance-in-rag-pipelines-with-hybrid-search-c75203c2f2f5
