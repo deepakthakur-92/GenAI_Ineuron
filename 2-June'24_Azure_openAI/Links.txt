@@ -1,0 +1,1 @@
+Azure OPenAI crash course github link - https://github.com/sunnysavita10/azureopenai
