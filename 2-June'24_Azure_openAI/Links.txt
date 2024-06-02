@@ -1,1 +1,3 @@
 Azure OPenAI crash course github link - https://github.com/sunnysavita10/azureopenai
+
+interview question link - https://docs.google.com/forms/d/e/1FAIpQLScXrY6wWoPgRYbv8QQuTuNo-gLdqGjfmSBxFFiutnCR2o3VEw/viewform
