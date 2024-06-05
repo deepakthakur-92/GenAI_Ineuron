@@ -7,3 +7,5 @@ mistral model huggingface - https://huggingface.co/TheBloke/Mistral-7B-Instruct-
 eos_token = End of sentence token
 
 quantization(GPTQ config) - https://huggingface.co/docs/transformers/en/main_classes/quantization
+
+Supervised_Finetuning_trainer(HuggingFace) - https://huggingface.co/docs/trl/en/sft_trainer
