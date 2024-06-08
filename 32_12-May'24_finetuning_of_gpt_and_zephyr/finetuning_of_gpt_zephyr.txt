@@ -2,3 +2,7 @@ finetuning gpt-3.5 documentation - https://platform.openai.com/docs/guides/fine-
 
 Zephyr model(huggingface) - https://huggingface.co/HuggingFaceH4/zephyr-7b-beta
 
+There 3 types of fine-tuning techniques-
+1) SFT
+2) DPO
+3) RLHF
