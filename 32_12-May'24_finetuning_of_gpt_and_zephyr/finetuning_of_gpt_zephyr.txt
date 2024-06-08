@@ -1,2 +1,4 @@
 finetuning gpt-3.5 documentation - https://platform.openai.com/docs/guides/fine-tuning/fine-tuning-integrations
 
+Zephyr model(huggingface) - https://huggingface.co/HuggingFaceH4/zephyr-7b-beta
+
