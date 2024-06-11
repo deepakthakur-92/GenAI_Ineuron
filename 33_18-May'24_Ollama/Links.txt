@@ -12,3 +12,5 @@ Ollama WebUI - https://github.com/open-webui/open-webui
 
 Ollama code on 18th May - https://github.com/sunnysavita10/Ollama-Complete-Code
 
+Enterprise Application: E-Learning App(AWS-GenAI) - https://www.youtube.com/watch?v=NOwey_rKVhw&list=PLmQAMKHKeLZ8k2dHhEzPaJUcwxNyHPmRy
+
