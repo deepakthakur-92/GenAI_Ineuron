@@ -1,3 +1,6 @@
 Preference Tuning LLMs with Direct Preference Optimization Methods(DPO, IPO, KTO) - https://huggingface.co/blog/pref-tuning
 
 Fine-tune Llama 3 using Direct Preference Optimization - https://www.analyticsvidhya.com/blog/2024/05/fine-tune-llama-3-using-direct-preference-optimization/#:~:text=Direct%20Preference%20Optimization%20is%20a,based%20on%20human%20preference%20data.
+
+RLHF - https://vijayasriiyer.medium.com/rlhf-training-pipeline-for-llms-using-huggingface-821b76fc45c4
+
