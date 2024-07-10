@@ -4,3 +4,6 @@ Fine-tune Llama 3 using Direct Preference Optimization - https://www.analyticsvi
 
 RLHF - https://vijayasriiyer.medium.com/rlhf-training-pipeline-for-llms-using-huggingface-821b76fc45c4
 
+TRL-Transformer Reinforcement Learning(Library for SFT, DPO PPO fine tuning of LLMs) - https://pypi.or[g/project/trl/
+
+- https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0
