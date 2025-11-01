@@ -7,3 +7,6 @@ RLHF - https://vijayasriiyer.medium.com/rlhf-training-pipeline-for-llms-using-hu
 TRL-Transformer Reinforcement Learning(Library for SFT, DPO PPO fine tuning of LLMs) - https://pypi.or[g/project/trl/
 
 - https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0
+
+
+colab link - https://colab.research.google.com/drive/1jB4fTRZMmPTZQaz3g63eS-qjliuWHiI0
